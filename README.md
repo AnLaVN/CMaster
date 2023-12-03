@@ -46,7 +46,6 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 
 ### 4. Hệ Thống Thanh Toán
 - Tích hợp cổng thanh toán trực tuyến giúp thanh toán mọi lúc, mọi nơi với tốc độ bàn thờ.
-- 
 ### 5. Tài Nguyên Khoá Học
 - Trãi nghiệm học tập mọi lúc mọi nơi. Tối đa 1 tài khoản / 1 thiết bị / bất kỳ thời điểm nào.
 - Nội dung đa dạng từ tài liệu, hình ảnh, đến video.
