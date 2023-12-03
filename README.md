@@ -8,7 +8,6 @@
 	<br><br>
 	<img src="https://img.shields.io/github/repo-size/AnLaVN/CMaster">
 	<img src="https://img.shields.io/github/languages/code-size/AnLaVN/CMaster">
-	<img src="https://img.shields.io/github/downloads/AnLaVN/CMaster/total">
 	<a href="https://github.com/AnLaVN/CMaster/releases"><img src="https://img.shields.io/github/v/release/AnLaVN/CMaster"></a>
 	<a href="https://github.com/AnLaVN/CMaster/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/CMaster"></a>
 	<a href="https://github.com/AnLaVN/CMaster/commits/Releases"><img src="https://img.shields.io/github/commit-activity/w/AnLaVN/CMaster"></a>
