@@ -1,14 +1,29 @@
-# Course Master - Dự Án Tốt Nghiệp
+<h1 align="center">Course Master - CMaster</h1>
+<p align="center">
+	<img src="https://cmaster.onrender.com/Asset/Image/logo.png" width = "40%">
+    <br/><br/>
+    <img alt="GitHub License" src="https://img.shields.io/github/license/AnLaVN/CMaster">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JDK-17%2B-orange">
+    <a href="#42-maven-central-repository"><img src="https://img.shields.io/maven-central/v/io.github.AnLaVN/AL-Library_VN"></a>
+	<br><br>
+	<img src="https://img.shields.io/github/repo-size/AnLaVN/CMaster">
+	<img src="https://img.shields.io/github/languages/code-size/AnLaVN/CMaster">
+	<img src="https://img.shields.io/github/downloads/AnLaVN/CMaster/total">
+	<a href="https://github.com/AnLaVN/CMaster/releases"><img src="https://img.shields.io/github/v/release/AnLaVN/CMaster"></a>
+	<a href="https://github.com/AnLaVN/CMaster/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/CMaster"></a>
+	<a href="https://github.com/AnLaVN/CMaster/commits/Releases"><img src="https://img.shields.io/github/commit-activity/w/AnLaVN/CMaster"></a>
+	<a href="https://github.com/AnLaVN/CMaster/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/CMaster"></a>
+	<br><br>
+</p>
+
 
 ## Mục Lục
 
 1. [Giới Thiệu](#giới-thiệu)
 2. [Chức Năng Chính](#chức-năng-chính)
-3. [Công Nghệ và Ngôn Ngữ](#công-nghệ-va-ngôn-ngữ)
-4. [Cài Đặt và Chạy Dự Án](#cài-đặt-va-chạy-dự-án)
-5. [Hướng Dẫn Đóng Góp](#hướng-dẫn-đóng-góp)
-6. [Tác Giả](#tác-giả)
-7. [Giấy Phép](#giấy-phép)
+3. [Công Nghệ và Ngôn Ngữ](#công-nghệ-và-ngôn-ngữ)
+4. [Tác Giả](#tác-giả)
+5. [Giấy Phép](#giấy-phép)
 
 ## Giới Thiệu
 
@@ -65,11 +80,15 @@ Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ng�
 ## Tác Giả
 
 Dự án được phát triển bởi CMaster Team gồm những thành viên sau:
-- [AnLaVN](https://github.com/AnLaVN)
-- [TienSy](https://github.com/TranTienSy)
-- [Dat09](https://github.com/TTDAT25)
-- [TheHuh](https://github.com/thehuy03)
-- [HuuHon](https://github.com/Hoang1807)
+
+<a href="https://github.com/AnLaVN/CMaster/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AnLaVN/CMaster" />
+</a>
+
+| [AnLaVN](https://github.com/AnLaVN) | [TienSy](https://github.com/TranTienSy) | [Dat09](https://github.com/TTDAT25) | [TheHuh](https://github.com/thehuy03) | [HuuHon](https://github.com/Hoang1807) |
+|---|---|---|---|---|
+| Fullstack, Database design | Fullstack, Database design | Back-end, Front-end, document | Back-end, Front-end Designer, Tester | Back-end, Data statistics |
+
 
 ## Giấy Phép
 
