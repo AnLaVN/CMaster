@@ -83,7 +83,7 @@ Dự án được phát triển bởi CMaster Team gồm những thành viên sa
   <img src="https://contrib.rocks/image?repo=AnLaVN/CMaster" />
 </a>
 
-| [AnLaVN](https://github.com/AnLaVN) | [TienSy](https://github.com/TranTienSy) | [Dat09](https://github.com/TTDAT25) | [TheHuh](https://github.com/thehuy03) | [HuuHon](https://github.com/Hoang1807) |
+| [AnLaVN](https://github.com/AnLaVN) | [TienSy](https://github.com/TranTienSy) | [DatTT](https://github.com/TTDAT25) | [TheHuy](https://github.com/thehuy03) | [HuuHon](https://github.com/Hoang1807) |
 |---|---|---|---|---|
 | Fullstack, Database design | Fullstack, Database design | Back-end, Front-end, document | Back-end, Front-end Designer, Tester | Back-end, Data statistics |
 
