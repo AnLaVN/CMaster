@@ -66,6 +66,9 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 - Xử lý yêu cầu Rút tiền từ Giảng Viên kho họ phát sinh nhu cầu rút tiền về ví thật.
 - Thay đổi ngôn ngữ linh hoạt với hệ thống đa ngôn ngữ tuỳ biến giúp hiển thị bất kỳ ngôn ngữ gì.
 
+### 9. Trợ lý ảo YGPT.
+- Trò chuyện với YGPT - trợ lý ảo hỗ trợ học tập.
+
 ## Công Nghệ và Ngôn Ngữ
 
 Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ngữ sau:
@@ -73,7 +76,9 @@ Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ng�
 - **Backend:** Java Spring Boot REST API.
 - **Cơ Sở Dữ Liệu:** MS SQL Server, Cloud Firestore.
 - **API Thanh Toán:** VNPay, PayOS.
+- **AI:** Mô hình ngôn ngữ lớn Mistral OpenOrca với 7 tỷ tham số, lượng tử hoá 4 bit
 - **Hệ Thống Quản Lý Phiên Bản:** Git.
+- **Thư viện hỗ trợ:** [AL-Library](https://github.com/AnLaVN/AL-Library)
 
 ## Tác Giả
 
