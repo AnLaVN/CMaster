@@ -46,6 +46,7 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 
 ### 4. Hệ Thống Thanh Toán
 - Tích hợp cổng thanh toán trực tuyến giúp thanh toán mọi lúc, mọi nơi với tốc độ bàn thờ.
+
 ### 5. Tài Nguyên Khoá Học
 - Trãi nghiệm học tập mọi lúc mọi nơi. Tối đa 1 tài khoản / 1 thiết bị / bất kỳ thời điểm nào.
 - Nội dung đa dạng từ tài liệu, hình ảnh, đến video.
@@ -72,6 +73,14 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 
 ### 10. Chứng chỉ NFT.
 - Hỗ trợ mint Chứng Chỉ CMaster thành tài sản NFT với ví Meta Mask.
+
+### Và nhiều tính năng khác...
+- Hệ thống gợi ý khoá học. Gợi ý các khoá học mà người dùng có thể quan tâm dựa trên các tiêu chí như gói quảng cáo, tần suất nhắc đến trong bình luận, lọc cộng tác, sở thích, giảng viên giảng dạy, giảm giá và đánh giá...
+- Khám phá và tìm kiếm khoá học dựa trên nhiều tiêu chí như từ khoá tìm kiếm, danh mục, lượt đánh giá trung bình, khoảng giá...
+- Quản lý học viên với các tính năng như thống kê tiến trình học, bài thi với điểm thi + số lần gian lận, chứng chỉ chứng nhận...
+- Báo cáo và xử lý các báo cáo trong khu vực bình luận, dựa trên các tiêu chí đã được phân loại trước như nội dung thù địch, quấy rối hoặc bắt nạt, đạo văn...
+- Quản lý đa ngôn ngữ dựa trên cơ sở dữ liệu có thể tuỳ chỉnh được.
+[Khám phá thêm](https://cmaster.onrender.com/#!/home) để biết thêm chi tiết.
 
 ## Công Nghệ và Ngôn Ngữ
 
