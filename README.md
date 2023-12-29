@@ -33,7 +33,7 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 ### 1. Quản Lý Tài Khoản
 - Người dùng có thể tạo tài khoản mới hoặc đăng nhập bằng tài khoản đã có.
 - Cập nhật thông tin cá nhân, thay đổi mật khẩu và quản lý các khoá học đã đăng ký.
-- Thông tin được bảo mật bằng phương thức mã hoá BCrypt đảm bảo an toàn cho tài khoản ngay cả trong tình hướng xấu nhất.
+- Thông tin được bảo mật bằng phương thức mã hoá BCrypt đảm bảo an toàn cho tài khoản ngay cả trong tình huống xấu nhất.
 
 ### 2. Danh Mục Khoá Học
 - Hiển thị danh sách khoá học được gợi ý phù hợp cho từng người dùng.
@@ -68,6 +68,10 @@ Dự án Course Master là dự án tốt nghiệp được xây dựng như là
 
 ### 9. Trợ lý ảo YGPT.
 - Trò chuyện với YGPT - trợ lý ảo hỗ trợ học tập.
+- Ứng dụng mô hình ngôn ngữ lớn OpenOrca Platypus2 với 13 tỷ tham số làm trợ lý ảo nhằm phục vụ cho việc học của người dùng thuận tiện hơn.
+
+### 10. Chứng chỉ NFT.
+- Hỗ trợ mint Chứng Chỉ CMaster thành tài sản NFT với ví Meta Mask.
 
 ## Công Nghệ và Ngôn Ngữ
 
@@ -76,7 +80,7 @@ Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ng�
 - **Backend:** Java Spring Boot REST API.
 - **Cơ Sở Dữ Liệu:** MS SQL Server, Cloud Firestore.
 - **API Thanh Toán:** VNPay, PayOS.
-- **AI:** Mô hình ngôn ngữ lớn Mistral OpenOrca với 7 tỷ tham số, lượng tử hoá 4 bit
+- **AI:** Mô hình ngôn ngữ lớn OpenOrca Platypus2 với 13 tỷ tham số, lượng tử hoá 4 bit
 - **Hệ Thống Quản Lý Phiên Bản:** Git.
 - **Thư viện hỗ trợ:** [AL-Library](https://github.com/AnLaVN/AL-Library)
 
