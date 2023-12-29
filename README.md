@@ -108,7 +108,7 @@ Dự án được phát triển bởi CMaster Team gồm những thành viên sa
 
 ## Giấy Phép
 
-Dự án được phân phối với các bản thiết kế như ERD, Diagram... dưới giấy phép [GNU General Public License](LICENSE.md). Mã nguồn của dự án là private và chỉ khả dụng đối với thành viên. Mọi hành động như khai thác, đảo ngược, tuỳ chỉnh... với mã nguồn (Java, JS, SQL,...) đều là bất hợp pháp và là hành vi ăn cắp. Đọc kỹ tài liệu giấy phép để biết chi tiết. Mọi thắc mắc vui lòng liên hệ với [AnLaVN](https://github.com/AnLaVN)
+**Dự án được phân phối với *các bản thiết kế như ERD, Diagram...* dưới giấy phép [GNU General Public License](LICENSE.md). *Mã nguồn của dự án là private và chỉ khả dụng đối với thành viên*. Mọi hành động như khai thác, đảo ngược, tuỳ chỉnh... với mã nguồn (Java, JS, SQL,...) đều là bất hợp pháp và là hành vi ăn cắp.** Đọc kỹ tài liệu giấy phép để biết chi tiết. Mọi thắc mắc vui lòng liên hệ với [AnLaVN](https://github.com/AnLaVN)
 
 ---
 
